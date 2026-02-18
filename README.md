@@ -40,6 +40,13 @@ Helps analyze customer behavior, track revenue growth, identify top-performing c
 <img width="823" height="382" alt="image" src="https://github.com/user-attachments/assets/a5750edd-1594-49be-b5e8-bc69eca61c66" />
 
 ---
+# 🚴 AdventureWorks Sales Performance Dashboard – Power BI
+
+## 📌 Overview
+This Power BI dashboard provides a complete overview of sales performance, including Revenue ($24.9M), Profit ($10.5M), Orders (25.2K), and Return Rate (2.2%). It features revenue trends, category-wise orders, top 10 products analysis, and monthly performance insights with interactive filters.
+
+## 🎯 Purpose
+To monitor overall business performance, track sales and profit growth, analyze product-level returns, and support strategic decision-making through clear and actionable insights.
 
 <img width="878" height="409" alt="image" src="https://github.com/user-attachments/assets/5272e46b-da7d-49fe-bce7-778f198c776a" />
 
