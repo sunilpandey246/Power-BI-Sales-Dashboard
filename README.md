@@ -63,6 +63,29 @@ To evaluate product performance against targets, monitor profit impact with pric
 
 ---
 
+## 📌 Conclusion
+
+This project demonstrates practical data analysis and dashboard development skills using real-world business scenarios. It highlights KPI tracking, performance analysis, and actionable insights for better decision-making.
+
+---
+
+## 🙌 Thank You
+
+Thank you for reviewing this project!
+
+---
+
+## 📢 Note
+
+This project is created for learning and portfolio purposes only.
+
+---
+
+## 👤 Author: Sunil Pandey  
+## 💼 Role: Data Analyst 
+## 📧 Contact: sunilpandey2468@gmail.com
+
+
 
 
 
