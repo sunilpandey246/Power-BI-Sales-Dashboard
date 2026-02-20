@@ -10,7 +10,7 @@ To improve report performance, scalability, and data accuracy while demonstratin
 <img width="1168" height="425" alt="image" src="https://github.com/user-attachments/assets/51d992e7-4344-4564-ace0-cbe0e9d72a6b" />
 
 ---
-# Product Performance & Target Analysis Dashboard - Power BI
+# Monthly KPI & Target vs Actual Dashboard - Power BI
 
 - This Power BI dashboard represents a **Sales & Product Performance Analysis**.  
 - It tracks key KPIs such as **Orders, Revenue, and Profit** against targets, along with **Profit and Return trends** to evaluate overall business performance.
