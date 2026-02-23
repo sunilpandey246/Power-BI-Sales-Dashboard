@@ -9,9 +9,6 @@ To improve report performance, scalability, and data accuracy while demonstratin
  
 <img width="1168" height="425" alt="image" src="https://github.com/user-attachments/assets/51d992e7-4344-4564-ace0-cbe0e9d72a6b" />
 
-<img width="1091" height="404" alt="image" src="https://github.com/user-attachments/assets/3379f687-31db-4f48-a709-a69e31145d62" />
-
-
 ---
 # Monthly KPI & Target vs Actual Dashboard - Power BI
 
